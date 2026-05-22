@@ -84,7 +84,7 @@ metadata:
   version: 1.0.0
   description: A self-validating component
   author: Jonathan D.A. Jewell
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 security:
   trust_level: 'Yard
@@ -152,7 +152,7 @@ deno task test     # Run tests
 
 == License
 
-SPDX-License-Identifier: PMPL-1.0-or-later
+SPDX-License-Identifier: MPL-2.0
 
 Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath)
 
