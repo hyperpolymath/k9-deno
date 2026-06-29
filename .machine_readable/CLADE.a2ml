@@ -3,11 +3,11 @@
 # See: https://github.com/hyperpolymath/gv-clade-index
 
 [identity]
-uuid = "a5ea1382-a34c-5334-8a46-a2ebe904c810"
+uuid = "53e2e8a6-06a9-5c18-a27a-25f37ddc2314"
 primary-forge = "github"
 primary-owner = "hyperpolymath"
-canonical-name = "rsr-template-repo"
-prefixed-name = "rm-rsr-template-repo"
+canonical-name = "k9-deno"
+prefixed-name = "rm-k9-deno"
 
 [clade]
 primary = "rm"
@@ -16,9 +16,9 @@ assigned = "2026-03-16"
 rationale = ""
 
 [forges]
-github = "hyperpolymath/rsr-template-repo"
-gitlab = "hyperpolymath/rsr-template-repo"
-bitbucket = "hyperpolymath/rsr-template-repo"
+github = "hyperpolymath/k9-deno"
+gitlab = "hyperpolymath/k9-deno"
+bitbucket = "hyperpolymath/k9-deno"
 
 [lineage]
 type = "standalone"
